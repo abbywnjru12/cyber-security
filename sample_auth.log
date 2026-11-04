@@ -1,0 +1,8 @@
+Nov  4 06:01:12 server sshd[101]: Failed password for invalid user admin from 203.0.113.10 port 52111 ssh2
+Nov  4 06:02:12 server sshd[102]: Failed password for invalid user root from 203.0.113.10 port 52112 ssh2
+Nov  4 06:03:12 server sshd[103]: Failed password for invalid user test from 203.0.113.10 port 52113 ssh2
+Nov  4 06:04:12 server sshd[104]: Failed password for invalid user guest from 203.0.113.10 port 52114 ssh2
+Nov  4 06:05:12 server sshd[105]: Failed password for invalid user user from 198.51.100.22 port 52115 ssh2
+Nov  4 06:06:12 server sshd[106]: Failed password for invalid user ubuntu from 198.51.100.22 port 52116 ssh2
+Nov  4 06:07:12 server sshd[107]: Failed password for invalid user oracle from 198.51.100.22 port 52117 ssh2
+Nov  4 06:08:12 server sshd[108]: Accepted password for demo from 192.0.2.55 port 52118 ssh2
